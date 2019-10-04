@@ -1,7 +1,7 @@
 
 ## Fall 2019
 
-### Thursday's, 11:00am-12:20pm
+### Thursdays, 11:00am-12:20pm
 <br>
 
 ### October 3rd - [Mixer with CSS Faculty](https://github.com/uchicago-computation-workshop/fall2019mixer)
