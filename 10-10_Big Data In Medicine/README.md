@@ -15,5 +15,5 @@ The Computational Social Science Workshop at the University of Chicago cordially
 *A light dinner will be provided.*
 
 
-Please find this week's article [here](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/Big%20Data%20In%20Medicine/Greene%20%26%20Lea%20(2019).pdf).
+Please find this week's article [here](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/10-10_Big%20Data%20In%20Medicine/Greene%20%26%20Lea%20(2019).pdf).
 
