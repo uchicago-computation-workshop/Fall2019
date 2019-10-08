@@ -4,7 +4,7 @@
 ###  featuring Jeremy Greene (Johns Hopkins), Andrey Rzhetsky and James Evans (University of Chicago)
 
 
-The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend an unique workshop on the topic of Big Data in Medicine, including renowned historian of medicine Jeremy Greene and a distinguished University of Chicago faculty panel. Please note the unusual time for this week's event.
+The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend a unique workshop on the topic of Big Data in Medicine, including renowned historian of medicine Jeremy Greene and a distinguished University of Chicago faculty panel. Please note the unusual time for this week's event.
 
 
 ### Thursday, 10/10
