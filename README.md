@@ -1,7 +1,7 @@
 
 ## Fall 2019
 
-### Thursday's, 11:00am-12:20pm
+### Thursdays, 11:00am-12:20pm
 <br>
 
 ### October 3rd - [Mixer with CSS Faculty](https://github.com/uchicago-computation-workshop/fall2019mixer)
@@ -13,7 +13,9 @@
 ### October 10th  - [Big Data in Medicine](https://github.com/uchicago-computation-workshop/BigDataMedicine)
 
 <div><img src="https://www.hopkinshistoryofmedicine.org/sites/default/files/userfiles/14/20140521-10663-2.jpeg" height="200"></div>
-A panel of distinguished University of Chicago faculty chaired by[Jeremy Greene](https://www.hopkinshistoryofmedicine.org/content/jeremy-greene), a renowned historian of medicine (John Hopkins School of Medicine)
+
+A panel of distinguished University of Chicago faculty chaired by [Jeremy Greene](https://www.hopkinshistoryofmedicine.org/content/jeremy-greene), a renowned historian of medicine (John Hopkins School of Medicine)
+
 **4:00-5:20 PM | Location TBD**
 <br>
 
