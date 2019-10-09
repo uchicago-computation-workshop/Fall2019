@@ -10,7 +10,7 @@
 
 <br>
 
-### October 10th  - [Big Data in Medicine](https://github.com/uchicago-computation-workshop/BigDataMedicine)
+### October 10th  - [Big Data in Medicine](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-10_Big%20Data%20In%20Medicine)
 
 <div><img src="https://www.hopkinshistoryofmedicine.org/sites/default/files/userfiles/14/20140521-10663-2.jpeg" height="200"></div>
 
