@@ -16,7 +16,7 @@
 
 A panel of distinguished University of Chicago faculty chaired by [Jeremy Greene](https://www.hopkinshistoryofmedicine.org/content/jeremy-greene), a renowned historian of medicine (John Hopkins School of Medicine)
 
-**4:00-5:20 PM | Location TBD**
+**4:00-5:20 PM | Stevanovich Center for Financial Mathematics 112
 <br>
 
 ### October 17th  - [James Evans](https://macss.uchicago.edu/directory/james-evans)
