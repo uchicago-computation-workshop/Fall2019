@@ -19,7 +19,7 @@ A panel of distinguished University of Chicago faculty chaired by [Jeremy Greene
 **4:00-5:20 PM | Stevanovich Center for Financial Mathematics 112
 <br>
 
-### October 17th  - [James Evans](https://macss.uchicago.edu/directory/james-evans)
+### October 17th  - [James Evans](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-17_Evans)
 <div><img src="https://sociology.uchicago.edu/sites/sociology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/1%20%284%29.jpg?itok=b1wuZWzi" height="200"></div>
 Professor of Sociology, Director of the Knowledge Lab, Faculty Director of the Masters Program in Computational Social Science, and External Professor at the Santa Fe Institutee, University of Chicago
 <br>
