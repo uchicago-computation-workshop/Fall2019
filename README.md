@@ -30,7 +30,7 @@ Professor of Communication, Stanford University
 <br>
 
 
-### October 31st  - Currently Unknown
+### October 31st  - TBD
 <br>
 
 ### November 7th  - TBD
