@@ -4,7 +4,7 @@
 ### University of Chicago
 
 
-The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week?s talk:
+The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week's talk:
 
 ## Science and Technology Advance through Surprise
 

@@ -24,13 +24,13 @@ A panel of distinguished University of Chicago faculty chaired by [Jeremy Greene
 Professor of Sociology, Director of the Knowledge Lab, Faculty Director of the Masters Program in Computational Social Science, and External Professor at the Santa Fe Institutee, University of Chicago
 <br>
 
-### October 24th  - [Fred Turner](https://fredturner.stanford.edu/)
+### October 24th  - [Fred Turner](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-17_Turner)
 <div><img src="http://fredturner.stanford.edu/wp-content/uploads/Fred-Turner-200-DPI-3-by-3.jpg" height="200"></div>
 Professor of Communication, Stanford University
 <br>
 
 
-### October 31st  - TBD
+### October 31st  - To be determined
 <br>
 
 ### November 7th  - TBD
