@@ -24,13 +24,13 @@ A panel of distinguished University of Chicago faculty chaired by [Jeremy Greene
 Professor of Sociology, Director of the Knowledge Lab, Faculty Director of the Masters Program in Computational Social Science, and External Professor at the Santa Fe Institutee, University of Chicago
 <br>
 
-### October 24th  - [Fred Turner](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-17_Turner)
-<div><img src="http://fredturner.stanford.edu/wp-content/uploads/Fred-Turner-200-DPI-3-by-3.jpg" height="200"></div>
-Professor of Communication, Stanford University
+### October 24th  - [Machine Politics: A Roundtabler](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-17_Turner)
+<div><img src="http://fredturner.stanford.edu/wp-content/uploads/Fred-Turner-200-DPI-3-by-3.jpg" height="150"> <img src="https://history.uchicago.edu/sites/history.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/2017_Adrian_Johns.jpg?itok=87LRsSBF" height="150"><img src="https://socialthought.uchicago.edu/sites/socialthought.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Joel%20Isaac.jpg?itok=qril9N3T" height="150"></div>
+Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (University of Chicago)
 <br>
 
 
-### October 31st  - To be determined
+### October 31st  - Jevin West \& Carl Bergstrom
 <br>
 
 ### November 7th  - TBD
@@ -39,5 +39,5 @@ Professor of Communication, Stanford University
 ### November 14th  - TBD
 <br>
 
-### November 21st  - TBD
+### November 21st  - Paolo Parigi
 <br>
