@@ -1,7 +1,7 @@
 ### The Computational Social Science Workshop Presents
 
 #  Machine Politics: A Roundtable 
-### Featuring Fred Turner (Stanford University), Adrian Johns and Joeal Isaac (University of Chicago)
+### Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (University of Chicago)
 
 
 The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week's event:
