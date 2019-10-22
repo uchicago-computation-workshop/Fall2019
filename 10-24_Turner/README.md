@@ -21,7 +21,7 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
 
 This week's reading:
 - [Turner (2019). Machine Politics: The rise of the internet and a new age of authoritarianism. Harper's magazine](https://harpers.org/archive/2019/01/machine-politics-facebook-political-polarization/)
-- [Turner(2013). Where Did All The Fascists Come From?. In *The Democratic Surround .](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/10-24_Turner/Turner%282013%29.pdf).
+- [Turner(2013). Where Did All The Fascists Come From?. In *The Democratic Surround*](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/10-24_Turner/Turner%282013%29.pdf).
 
 
 
