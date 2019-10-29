@@ -16,6 +16,8 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
 *A light lunch will follow the talk*
 <br>
 
+**Summary:** The world is awash in bullshit. Politicians are unconstrained by facts. Science is conducted by press release. Higher education rewards bullshit over analytic thought. Startup culture elevates bullshit to high art. Advertisers wink conspiratorially and invite us to join them in seeing through all the bullshit — and take advantage of our lowered guard to bombard us with bullshit of the second order. The majority of administrative activity, whether in private business or the public sphere, seems to be little more than a sophisticated exercise in the combinatorial reassembly of bullshit.
+
 
 [**Jevin West**](https://jevinwest.org/) is an Associate Professor in the Information School at the University of Washington. He co-founded the DataLab and direct the Center for an Informed Public. He studied the *Science of Science* and worries about the spread of misinformation. His laboratory consists of millions of scholarly papers and the billions of links that connect these papers. He develops *knowledge discovery tools* to both study and facilitate science. In particular, he is interested in the origin of scholarly disciplines and how sociological and economic factors drive and slow the evolution of science.
 
@@ -23,7 +25,7 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
  
 ---
 
-This week's readings:
+This week's reading:
 
 - [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/)
 - [Visualization: Misleading axes on graphs](https://callingbullshit.org/tools/tools_misleading_axes.html)
