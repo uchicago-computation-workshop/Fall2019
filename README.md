@@ -30,8 +30,14 @@ Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (Univer
 <br>
 
 
-### October 31st  - Jevin West \& Carl Bergstrom
-<br>
+### October 31st  - [Jevin West \& Carl Bergstrom](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/10-31_West%26Bergstrom)
+<div><img src="https://www.biology.washington.edu/sites/default/files/news/bs1440.jpg" height="175" title = "source: https://www.biology.washington.edu/news/news/1530639000/carl-bergstrom-and-jevin-west-identifying-fake-news"> <br>
+
+**Jevin West** is an Associate Professor of Information Science and director of the DataLab and Center for an Informed Public at the University of Washington
+
+**Carl Bergstrom** is a Professor Computational Biology and Behavior at the University of Washington
+
+
 
 ### November 7th  - TBD
 <br>
