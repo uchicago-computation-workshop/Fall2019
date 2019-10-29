@@ -27,10 +27,12 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
 
 This week's reading:
 
+- [Frankfurt, Harry. *On Bullshit* (Raritan Quarterly Review, 1986 & Princeton University Press, 2005)](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/10-31_West&Bergstrom/frankfurt__harry_-_on_bullshit.pdf)
 - [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/)
 - [Visualization: Misleading axes on graphs](https://callingbullshit.org/tools/tools_misleading_axes.html)
 - [Visualization: The Principle of Proportional Ink](https://callingbullshit.org/tools/tools_proportional_ink.html)
 - [Case Study: Machine learning about sexual orientation?](https://callingbullshit.org/case_studies/case_study_ml_sexual_orientation.html)
+
 
 
 
