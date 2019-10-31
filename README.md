@@ -41,9 +41,6 @@ Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (Univer
 ### November 7th  - Gary King
 <div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg"> <br>
 
-### November 7th  - Gary King
-<div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg"> <br>
-
 Albert J. Weatherhead III University Professor at Harvard University, based in the Department of Government, as well as the Director of the Institute for Quantitative Social Science. 
 <br>
 
@@ -51,4 +48,7 @@ Albert J. Weatherhead III University Professor at Harvard University, based in t
 <br>
 
 ### November 21st  - Paolo Parigi
-<br>
+<div><img src="https://web.stanford.edu/~pparigi/img/profilePic.jpg" height="175" title = "source: https://web.stanford.edu/~pparigi/img/profilePic.jpg"> <br>
+
+Adjunct Professor in Civil and Environmental Engineering (Stanford University), Associate Director for Computational Social Science at IRiSS (Stanford
+University), and Lead Trust Scientist at Airbnb
