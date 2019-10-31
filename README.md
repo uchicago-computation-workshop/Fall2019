@@ -38,11 +38,13 @@ Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (Univer
 **Carl Bergstrom** is a Professor Computational Biology and Behavior at the University of Washington
 
 
+### November 7th  - Gary King
+<div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg"> <br>
 
 ### November 7th  - Gary King
-<div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/staff/gary-king/"> <br>
-Weatherhead University Professor at Harvard University; Director of the Institute for Quantitative Social Science
+<div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg"> <br>
 
+Albert J. Weatherhead III University Professor at Harvard University, based in the Department of Government, as well as the Director of the Institute for Quantitative Social Science. 
 <br>
 
 ### November 14th  - TBD
