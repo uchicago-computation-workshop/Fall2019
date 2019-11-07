@@ -38,14 +38,16 @@ Featuring Fred Turner (Stanford University), Adrian Johns and Joel Isaac (Univer
 **Carl Bergstrom** is a Professor Computational Biology and Behavior at the University of Washington
 
 
-### November 7th  - Gary King
+### November 7th  - [Gary King](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/11-07_King)
 <div><img src="https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg" height="175" title = "source: https://idss.mit.edu/wp-content/uploads/2016/03/050515_King_006_338063_571081-1.jpg"> <br>
 
 Albert J. Weatherhead III University Professor at Harvard University, based in the Department of Government, as well as the Director of the Institute for Quantitative Social Science. 
 <br>
 
-### November 14th  - TBD
+### November 14th  - [Rochelle  Terman](https://github.com/uchicago-computation-workshop/Fall2019/tree/master/11-14_Terman)
+<div><img src="http://rochelleterman.com/wp-content/uploads/2016/04/cropped-189-1.jpg" height="175" title = "source: http://rochelleterman.com">
 <br>
+Provost’s Postdoctoral Fellow in the Department of Political Science at the University of Chicago
 
 ### November 21st  - Paolo Parigi
 <div><img src="https://web.stanford.edu/~pparigi/img/profilePic.jpg" height="175" title = "source: https://web.stanford.edu/~pparigi/img/profilePic.jpg"> <br>
