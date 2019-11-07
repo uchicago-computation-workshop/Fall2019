@@ -28,7 +28,8 @@ This article examines portrayals of Muslim women in US news media. I test two hy
 
 This week's reading:
 
-- [Terman, R. (2017). Islamophobia and media portrayals of Muslim women: A computational text analysis of US news coverage. *International Studies Quarterly*, 61(3), 489-502.](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/10-14_Terman/Terman_ISQ.pdf)
+- [Terman, R. (2017). Islamophobia and media portrayals of Muslim women: A computational text analysis of US news coverage. *International Studies Quarterly*, 61(3), 489-502.](https://github.com/uchicago-computation-workshop/Fall2019/blob/master/11-14_Terman/Terman_ISQ.pdf)
+
 
 
 
