@@ -49,8 +49,4 @@ Albert J. Weatherhead III University Professor at Harvard University, based in t
 <br>
 Provost’s Postdoctoral Fellow in the Department of Political Science at the University of Chicago
 
-### November 21st  - Paolo Parigi
-<div><img src="https://web.stanford.edu/~pparigi/img/profilePic.jpg" height="175" title = "source: https://web.stanford.edu/~pparigi/img/profilePic.jpg"> <br>
-
-Adjunct Professor in Civil and Environmental Engineering (Stanford University), Associate Director for Computational Social Science at IRiSS (Stanford
-University), and Lead Trust Scientist at Airbnb
+### November 21st  - CANCELLED
